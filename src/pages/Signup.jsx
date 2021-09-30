@@ -92,7 +92,7 @@ const FormLabel = styled.label`
 `;
 
 const InputField = styled.input`
-  width: 70%;
+  width: 95%;
   height: 24px;
   margin-bottom: 24px;
 `;
